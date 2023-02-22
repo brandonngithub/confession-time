@@ -1,3 +1,1 @@
-# deep-confessions
-
-confession-time better name?
+# confession-time
